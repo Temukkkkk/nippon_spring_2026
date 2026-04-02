@@ -1,0 +1,7 @@
+#!/bin/bash
+NAME="Temulen"
+echo "Minii ner: $NAME"
+echo "hereglegch: $(whoami)"
+echo "bairshil: $(pwd)"
+echo "System: $(uname)"
+echo "Today: $(date)"
