@@ -1,0 +1,51 @@
+section{
+    height: 400px;
+    width: 400px;
+    background-color: wheat;
+    color: blue;
+}
+
+#one{
+    color: aqua;
+}
+
+#two{
+    color: rgb(135, 145, 155);
+    text-align: center;
+    font-size: 40px;
+}
+
+#three{
+    color: violet;
+    font-size: 40px;
+}
+
+#one{
+    color: red;
+    font-size: 40px;
+}
+
+li{
+    font-size: 30px;
+    color: violet;
+}
+
+.japanese{
+    color: red;
+}
+
+.italian{
+    color: aquamarine;
+}
+
+.mongolia{
+    color: turquoise;
+}
+
+.mng{
+    color: azure;
+}
+
+.mongol{
+    color: tomato;
+}
