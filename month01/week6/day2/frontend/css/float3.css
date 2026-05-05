@@ -1,0 +1,15 @@
+.column{
+    float: left;
+    width: 45%;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid red;
+}
+
+.cols{
+    float: left;
+    width: 31%;
+    height: 50px;
+    background-color: orange;
+    border: 1px solid black;
+}
