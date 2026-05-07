@@ -1,0 +1,24 @@
+table{
+    border-spacing: 15px;
+}
+td{
+    width: 100px;
+    height: 150px;
+    border: 2px solid #F31559;
+    border-radius: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.zurag1 img{
+    width: 300px;
+}
+.zurag2 img{
+    width: 300px;
+}
+.zurag3 img{
+    width: 300px;
+}
+.zurag4 img{
+    width: 300px;
+}

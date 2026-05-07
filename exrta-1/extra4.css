@@ -1,0 +1,11 @@
+td{
+    border: 1px solid #a9dd00;
+    padding: 15px 25px;
+}
+table{
+    background-color: darkcyan;
+    empty-cells: hide;
+}
+td:hover{
+    background-color: lightgray;
+}
