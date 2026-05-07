@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.nav{
+    overflow: hidden;
+}
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav ul li{
+    float: left;
+}
+.nav ul li a{
+    display: block;
+    padding: 14px 20px;
+    color: white;
+    text-decoration: none;
+    transition: 0.3;
+}
+.nav ul li a:hover{
+    background-color: red;
+    color: black;
+}

@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    background-color: red;
+    width: 160px;
+    height: 160px;
+    z-index: 1;
+}
+.box2{
+    background-color: blue;
+    width: 130px;
+    height: 130px;
+    z-index: 2;
+}
+.box3{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    z-index: 3;
+}
